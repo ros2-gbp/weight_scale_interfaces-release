@@ -1,0 +1,9 @@
+# Goal
+float64 timeout # sec
+---
+# Result
+bool success
+string message
+---
+# Feedback
+weight_scale_interfaces/Weight weight
