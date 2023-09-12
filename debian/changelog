@@ -1,0 +1,16 @@
+ros-humble-weight-scale-interfaces (0.0.2-1jammy) jammy; urgency=high
+
+  * Add builtin_interfaces dependency
+  * Contributors: Ryosuke Tajima
+
+ -- Ryosuke Tajima <tajima.ryosuke@techmagic.co.jp>  Mon, 11 Sep 2023 15:00:00 -0000
+
+ros-humble-weight-scale-interfaces (0.0.1-1jammy) jammy; urgency=high
+
+  * Release
+  * Initial commit
+  * Contributors: Ravi Joshi, Ryosuke Tajima, koki-ogura
+
+ -- Ryosuke Tajima <tajima.ryosuke@techmagic.co.jp>  Tue, 15 Aug 2023 15:00:00 -0000
+
+
